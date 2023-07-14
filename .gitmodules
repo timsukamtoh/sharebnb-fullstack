@@ -1,0 +1,6 @@
+[submodule "sharebnb-frontend"]
+	path = sharebnb-frontend
+	url = git@github.com:timsukamtoh/sharebnb-frontend.git
+[submodule "sharebnb-backend"]
+	path = sharebnb-backend
+	url = git@github.com:johny-chongy/sharenbn-backend.git
